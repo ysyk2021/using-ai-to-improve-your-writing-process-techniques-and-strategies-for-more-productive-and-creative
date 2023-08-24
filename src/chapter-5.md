@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Innovative Writing Practice
-========================================================
 
 Innovative writing practice involves pushing the boundaries of traditional writing methods and exploring new ways to generate ideas, adapt styles and genres, and collaborate effectively. AI has the potential to enhance innovative writing practice by providing new tools and techniques that facilitate creativity, analysis, and collaboration.
 

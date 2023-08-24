@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Writing Practice
-==========================================================
 
 Evaluating the impact of artificial intelligence (AI) on writing practice is essential to understanding its effectiveness in improving productivity, creativity, and quality outcomes. To evaluate the impact of AI on writing practice, writers need to identify key performance metrics and goals that align with their desired outcomes and measure the return on investment (ROI) and effectiveness of AI implementation.
 

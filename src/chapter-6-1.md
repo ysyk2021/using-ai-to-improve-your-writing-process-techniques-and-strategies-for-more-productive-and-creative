@@ -1,5 +1,3 @@
-Transforming Writing Practice from Passive to Active and Dynamic
-=================================================================================================================
 
 Artificial intelligence (AI) has a significant impact on writing practice, transforming it from passive to active and dynamic. With the help of AI, writers can overcome writer's block, diversify perspectives, enhance productivity, and achieve more creative and innovative writing outcomes.
 

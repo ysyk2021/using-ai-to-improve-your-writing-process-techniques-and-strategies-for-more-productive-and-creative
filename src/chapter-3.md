@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enhanced Writing Practice
-============================================================
 
 In this chapter, we will discuss how to get started with implementing AI into your writing practice. We will provide a roadmap for creating a customized AI implementation strategy and discuss key considerations when introducing AI-powered tools and techniques into your writing practice.
 

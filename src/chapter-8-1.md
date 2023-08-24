@@ -1,5 +1,3 @@
-The Future of AI in Writing Practice
-===========================================================
 
 In this book, we have explored various techniques and strategies for using AI to improve the writing process. From generating ideas to editing and proofreading, AI has the potential to revolutionize how we approach writing.
 

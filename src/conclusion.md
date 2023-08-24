@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored various techniques and strategies for using AI to improve writing practice. We have discussed the importance of developing a structured writing routine, the different types of AI technology and applications available for writers, and the impact of AI on writing practice.
 

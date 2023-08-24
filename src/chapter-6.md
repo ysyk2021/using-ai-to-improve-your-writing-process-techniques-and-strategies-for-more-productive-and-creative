@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Writing Practice
-===============================================
 
 In this chapter, we will explore the impact of AI on writing practice. We will discuss how AI technology is transforming writing practice from passive to active and dynamic, improving the quality, efficiency, and relevance of writing outputs, and enabling continuous learning and improvement in writing practice.
 

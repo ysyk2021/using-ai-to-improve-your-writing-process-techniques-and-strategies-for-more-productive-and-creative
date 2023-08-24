@@ -1,5 +1,3 @@
-Creating a Customized Roadmap for AI Implementation in Your Writing Practice Strategy
-===================================================================================================================================================
 
 In this chapter, we will discuss how to get started with implementing AI into your writing process. We will provide a roadmap for creating a customized AI implementation strategy and discuss key considerations when introducing AI-powered tools and techniques into your writing practice.
 

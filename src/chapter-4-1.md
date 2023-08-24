@@ -1,5 +1,3 @@
-Enhancing Time Management and Productivity with AI-Enabled Planning and Task Management
-=================================================================================================================================================
 
 Structured writing practice involves planning, organizing, and managing writing tasks efficiently to achieve productivity and quality outcomes. However, managing multiple writing projects and deadlines can be overwhelming and time-consuming. AI-enabled planning and task management tools have the potential to help writers enhance their time management and productivity.
 

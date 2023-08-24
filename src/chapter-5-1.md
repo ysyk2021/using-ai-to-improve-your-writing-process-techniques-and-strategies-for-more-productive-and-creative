@@ -1,5 +1,3 @@
-Fostering Novelty and Creativity with AI-Enabled Idea Generation and Brainstorming
-============================================================================================================================================
 
 One of the biggest challenges in writing is generating new and creative ideas. Writer's block can be frustrating, time-consuming, and discouraging. However, AI-enabled idea generation and brainstorming tools have the potential to help writers overcome this challenge and foster novelty and creativity.
 

@@ -1,5 +1,3 @@
-Enabling Continuous Learning and Improvement in Writing Practice
-=================================================================================================================
 
 As AI technology continues to evolve, it is having a significant impact on the writing process. In this chapter, we will explore the ways in which AI is enabling continuous learning and improvement in writing practice.
 
