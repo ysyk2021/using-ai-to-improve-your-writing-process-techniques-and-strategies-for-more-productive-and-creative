@@ -15,3 +15,7 @@ Throughout this book, we'll explore a variety of techniques and strategies for u
 Whether you're new to the world of AI or a seasoned practitioner, Using AI to Improve Your Writing Process has something to offer. With its practical insights, actionable strategies, and commitment to ethical and responsible AI adoption, this book will help you take your writing to the next level and achieve greater success in all of your writing endeavors.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
