@@ -1,5 +1,4 @@
-Chapter 9: Creating a Customized Roadmap for AI Implementation in Your Writing Practice Strategy
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of crafting a personalized roadmap for the effective integration of AI into your writing practice. By tailoring your AI implementation strategy, you can harness the full potential of artificial intelligence to enhance your productivity and creativity in writing.
 

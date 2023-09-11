@@ -1,5 +1,4 @@
-Chapter 3: Tools and Platforms for AI-Enabled Writing Practice
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a range of tools and platforms that leverage Artificial Intelligence (AI) to enhance your writing process. These tools can assist writers in various ways, from improving grammar and style to generating creative ideas. By incorporating AI into your writing practice, you can achieve more productive and creative outcomes. Let's dive into the world of AI-enabled writing tools and platforms.
 

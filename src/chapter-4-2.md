@@ -1,5 +1,4 @@
-Chapter 9: Improving Focus and Concentration with AI-Enabled Distraction Management and Mental Health Monitoring
-================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Maintaining focus and concentration is paramount for achieving productive and creative writing outcomes. In this chapter, we explore how AI can assist writers in managing distractions and monitoring mental health, ensuring an optimal writing environment.
 

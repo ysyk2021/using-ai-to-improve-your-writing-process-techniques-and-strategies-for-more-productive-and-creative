@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Time Management and Productivity with AI-Enabled Planning and Task Management
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficient time management and productivity are essential for achieving your writing goals. In this chapter, we explore how AI can play a pivotal role in optimizing your writing process through planning and task management.
 

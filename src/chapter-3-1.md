@@ -1,5 +1,4 @@
-Chapter 2: Identifying Your Writing Goals and Objectives for Optimal Performance
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of improving your writing process using AI techniques and strategies, a fundamental step is to clearly define your writing goals and objectives. By gaining a precise understanding of what you aim to achieve through your writing endeavors, you can optimize your approach and harness the power of AI to enhance your performance. This chapter explores the process of identifying your writing goals and objectives and how doing so can lead to more productive and creative outcomes.
 

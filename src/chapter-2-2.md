@@ -1,5 +1,4 @@
-Chapter 4: Different Types of AI Techniques and Applications for Writing Practice
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the diverse array of AI techniques and applications that can revolutionize your writing practice. From natural language processing (NLP) to machine learning algorithms, these AI tools offer various capabilities to enhance your writing productivity and creativity. Let's explore the different types of AI techniques and their applications in the context of writing.
 

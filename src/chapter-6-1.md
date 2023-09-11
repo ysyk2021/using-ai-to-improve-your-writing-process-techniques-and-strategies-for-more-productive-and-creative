@@ -1,5 +1,4 @@
-Chapter 7: Transforming Writing Practice from Passive to Active and Dynamic
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In an era where technology and AI play increasingly vital roles in the writing process, it's crucial to shift from passive writing practices to active and dynamic ones. This chapter explores how AI can empower writers to take a more proactive and responsive approach to their craft.
 

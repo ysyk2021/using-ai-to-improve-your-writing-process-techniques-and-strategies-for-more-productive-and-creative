@@ -1,5 +1,4 @@
-Chapter 8: Reducing Writer's Block with AI-Enabled Idea Generation and Inspiration
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Writer's block can be a formidable obstacle in any writer's path, hindering creativity and productivity. In this chapter, we explore how AI can be a valuable ally in overcoming writer's block by providing inspiration and generating fresh ideas.
 

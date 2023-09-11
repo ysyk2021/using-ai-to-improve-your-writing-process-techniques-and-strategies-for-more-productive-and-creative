@@ -1,5 +1,4 @@
-Chapter 6: Enabling Continuous Learning and Improvement in Writing Practice
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving world of writing, continuous learning and improvement are essential for staying competitive and achieving your creative and professional goals. In this chapter, we explore how AI can enable ongoing growth and development in your writing practice.
 
